@@ -14,36 +14,23 @@
 
 ---
 
-### 📊 Comprehensive Performance & Activity Metrics
+### 📊 Comprehensive Metrics & Analytics
+*(تولید شده توسط GitHub Actions بر اساس مخازن عمومی و خصوصی)*
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/alirezaalj/alirezaalj/main/github-metrics.svg" alt="Alireza GitHub Metrics" />
+</div>
+
+<br/>
 
 <div align="center">
 
-  <!-- Overall GitHub Stats with Private Commits Included -->
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=alirezaalj&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true&title_color=38bdf8&icon_color=38bdf8" alt="Alireza Stats" />
+  <!-- Overall GitHub Stats -->
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=alirezaalj&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true&title_color=38bdf8&icon_color=38bdf8" alt="Alireza Stats" />
   
   <!-- Activity Streak Stats -->
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=alirezaalj&theme=tokyonight&hide_border=true&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" alt="Alireza Streak" />
+  <img width="48%" src="https://streak-stats.demolab.com/?user=alirezaalj&theme=tokyonight&hide_border=true&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" alt="Alireza Streak" />
 
-</div>
-
-<br/>
-
-<div align="center">
-
-  <!-- Top Languages Used -->
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alirezaalj&layout=compact&theme=tokyonight&hide_border=true&title_color=38bdf8&count_private=true" alt="Top Languages" />
-  
-  <!-- GitHub Activity Rating / Trophies -->
-  <img width="49%" src="https://github-profile-trophy.vercel.app/?username=alirezaalj&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=3" alt="Trophies" />
-
-</div>
-
-<br/>
-
-### 📈 Activity Graph
-
-<div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=alirezaalj&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
 </div>
 
 ---
